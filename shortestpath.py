@@ -1,6 +1,5 @@
 import PrioQ
 
-#this will not get updated after the intital declaration
 class edge:
     def __init__(self, location, distance):
         self.station = location
